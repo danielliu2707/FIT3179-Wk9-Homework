@@ -4,3 +4,12 @@ html, body {
     margin: 0;
     padding: 0;
   }
+  
+/* Style the container div to take full width and center the content */
+#symbol_map {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
